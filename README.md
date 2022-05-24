@@ -19,7 +19,7 @@ table,th,td{border: 2px solid}
     <br>
     <body>
         
-        <table width="400" height="400">
+        <table width="1000" height="500">
             <caption>Data about the planets of our solar systems(planetary facts taken from</caption>
             
                 <tr style="background-color: dimgray;">
